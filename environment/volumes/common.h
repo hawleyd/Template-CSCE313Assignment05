@@ -107,7 +107,7 @@ struct dnsheader
 #define CLIENT_IP "10.9.0.1"
 #define SERVER_PORT 9090
 #define CLIENT_PORT 9091
-#define SPOOF_IP "192.168.0.1"
+#define SPOOF_IP "154.123.122.111"
 #define MAX_ATTEMPT 10
 const char *KEYS[] = {
     "CSCE313{C0ngRaTuLATions_Y0u_REacHED_ThE_END}",
